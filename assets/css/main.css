@@ -426,6 +426,7 @@ a.boxed-btn {
   background-color: #1EC130;
   color: #fff;
   padding: 10px 20px;
+  padding-bottom: 30px;
 }
 
 a.bordered-btn {
@@ -1442,9 +1443,12 @@ html, body {
   height: auto;
   vertical-align: middle;
 }
-
+.btn2{
+        margin-bottom: 20px;
+}
 .hero-btns {
   margin-top: 35px;
+  margin-bottom: 50px;
 }
 
 .hero-btns a.bordered-btn {
