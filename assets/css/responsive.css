@@ -380,7 +380,11 @@
 	    display: block;
 	    margin: 0 auto;
 	}
-
+	.btn2 {
+	    margin-left: 0;
+	    margin-top: 15 px;
+	    display: block;
+	}
 	.hero-btns {
 	    text-align: center;
 	}
