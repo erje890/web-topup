@@ -29,7 +29,7 @@ body {
 }
 
 body img {
-  max-width: 80%;
+  max-width: 100%;
 }
 
 a {
@@ -195,6 +195,17 @@ p:last-child {
   border-radius: 50%;
   -webkit-animation: spinRight 800ms linear infinite;
   animation: spinRight 800ms linear infinite;
+}
+
+.wrapper {
+  margin-right: -20px;
+}
+
+.child {
+  box-sizing: border-box;
+  width: 25%;
+  padding-right: 20px;
+  float: left;
 }
 
 .circle:before {
