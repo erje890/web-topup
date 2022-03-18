@@ -51,6 +51,7 @@ h6, .h6 {
   color: #051922;
 }
 
+
 h1:last-child, .h1:last-child,
 h2:last-child, .h2:last-child,
 h3:last-child, .h3:last-child,
@@ -136,6 +137,7 @@ h6, .h6 {
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.5rem;
+
 }
 
 p {
@@ -433,6 +435,7 @@ p:last-child {
 
 a.boxed-btn {
   font-family: 'Poppins', sans-serif;
+
   display: inline-block;
   background-color: #1EC130;
   color: #fff;
